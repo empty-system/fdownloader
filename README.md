@@ -1,7 +1,7 @@
 # fdownloader
 Downloading all images from someone on a special site
 
-I developed this thing purely for educational purposes. :)
+I developed this thing purely for educational purposes. :) -> Scrapping
 
 Use it at your own risk
 
